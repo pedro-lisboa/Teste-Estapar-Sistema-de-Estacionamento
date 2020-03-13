@@ -282,9 +282,10 @@ namespace Estapar_Web_DAL
                 dados.ExecutarComando(strQuery);
 
                 strQuery = new StringBuilder();
+                manobra.dataTerm = System.DateTime.Now.ToString();
                 strQuery.Append("INSERT INTO T_LOG ");
                 strQuery.Append(" VALUES(");
-                strQuery.Append("CONVERT(datetime, '" + System.DateTime.Now.ToString() + "', 103),");
+                strQuery.Append("CONVERT(datetime, '" + manobra.dataTerm + "', 103),");
                 strQuery.Append("'" + retorno + "')");
 
                 dados.ExecutarComando(strQuery);
