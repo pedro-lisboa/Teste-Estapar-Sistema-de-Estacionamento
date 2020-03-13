@@ -1,0 +1,56 @@
+﻿@model Estapar_Web_DTO.Veiculo
+
+@{
+    ViewBag.Title = "Excluir Veículo";
+}
+
+<h2>Excluir Veículo</h2>
+
+<h3>Você tem certeza que deseja excluir este veículo?</h3>
+<div>
+    <h4>Veiculo</h4>
+    <hr />
+    <dl class="Voltar à Lista">
+        <dt>
+            @Html.DisplayNameFor(model => model.placa)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.placa)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.marca)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.marca)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.modelo)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.modelo)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Excluir" class="btn btn-default" /> |
+            @Html.ActionLink("Voltar à Lista", "Index")
+        </div>
+    }
+</div>
+
+@if (ViewBag.Alerta != string.Empty)
+{
+    <script type="text/javascript">
+        alert('@ViewBag.Alerta');
+    </script>
+}

@@ -1,0 +1,43 @@
+﻿@model Estapar_Web_DTO.Manobrista
+
+@{
+    ViewBag.Title = "Detalhes do Manobrista";
+}
+
+    <h2>Detalhes do Manobrista</h2>
+
+<div>
+    <h4>Manobrista</h4>
+    <hr />
+    <dl class="Voltar à Lista">
+        <dt>
+            @Html.DisplayNameFor(model => model.nome)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.nome)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.cpf)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.cpf)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.dataNasc)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.dataNasc)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Editar", "Edit", new { cpf = Model.cpf }) 
+    <br />
+    @Html.ActionLink("Voltar à Lista", "Index")
+</p>

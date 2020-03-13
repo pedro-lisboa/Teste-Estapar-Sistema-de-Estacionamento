@@ -1,0 +1,67 @@
+﻿@model Estapar_Web_DTO.Manobra
+
+@{
+    ViewBag.Title = "Terminar Manobra";
+}
+
+<h2>Terminar Manobra</h2>
+
+<h3>Você tem certeza que deseja terminar a Manobra?</h3>
+<div>
+    <br />
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.manobrista.nome)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.manobrista.nome)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.veiculo.marca)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.veiculo.marca)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.veiculo.modelo)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.veiculo.modelo)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.veiculo.placa)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.veiculo.placa)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.data)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.data)
+        </dd>
+
+    </dl>
+
+    @if (ViewBag.Alerta != string.Empty)
+    {
+        <script type="text/javascript">
+        alert('@ViewBag.Alerta');
+        </script>
+    }
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Terminar" class="btn btn-default" /> |
+            @Html.ActionLink("Voltar à Lista", "Index")
+        </div>
+    }
+</div>

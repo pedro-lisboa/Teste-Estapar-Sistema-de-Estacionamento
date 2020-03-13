@@ -1,0 +1,98 @@
+﻿@model IEnumerable<Estapar_Web_DTO.Manobra>
+
+@{
+    ViewBag.Title = "Lista de Manobras";
+}
+
+<h2>Lista de Manobras</h2>
+
+<p>
+    @Html.ActionLink("Cadastrar nova Manobra", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.data)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.dataTerm)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.manobrista.nome)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.veiculo.placa)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.veiculo.marca)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.veiculo.modelo)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.data)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.dataTerm)
+            </td>
+            <th>
+                @Html.DisplayFor(modelItem => item.manobrista.nome)
+            </th>
+            <th>
+                @Html.DisplayFor(modelItem => item.veiculo.placa)
+            </th>
+            <th>
+                @Html.DisplayFor(modelItem => item.veiculo.marca)
+            </th>
+            <th>
+                @Html.DisplayFor(modelItem => item.veiculo.modelo)
+            </th>
+            <td>
+                @if (item.dataTerm == "")
+                {
+                    @Html.ActionLink("Editar", "Edit", new { id = item.id })
+                    <br />
+                }
+                @if (item.dataTerm == "")
+                {
+                    @Html.ActionLink("Detalhe", "Details", new { id = item.id })
+                    <br />
+                }
+                @if (item.dataTerm == "")
+                {
+                    @Html.ActionLink("Excluir", "Delete", new { id = item.id })
+                    <br />
+                }
+                @if (item.dataTerm == "")
+                {
+                    @Html.ActionLink("Terminar Manobra", "Terminate", new { id = item.id })
+                    <br />
+                }
+                @if (item.dataTerm != "")
+                {
+                    @Html.ActionLink("Detalhe", "Details", new { id = item.id })
+                    <br />
+                }
+                @if (item.dataTerm != "")
+                {
+                    @Html.ActionLink("Excluir", "Delete", new { id = item.id })
+                    <br />
+                }
+            </td>
+        </tr>
+    }
+
+</table>
+
+@if (ViewBag.Alerta != string.Empty)
+{
+    <script type="text/javascript">
+        alert('@ViewBag.Alerta');
+    </script>
+}

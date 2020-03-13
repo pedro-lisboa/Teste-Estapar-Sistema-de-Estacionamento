@@ -1,0 +1,20 @@
+C:\Users\T431137\Source\Repos\Estapar\Estapar_Web_APP\Estapar_Web_DTO\bin\Debug\Estapar_Web_DTO.dll
+C:\Users\T431137\Source\Repos\Estapar\Estapar_Web_APP\Estapar_Web_DTO\bin\Debug\Estapar_Web_DTO.pdb
+C:\Users\T431137\Source\Repos\Estapar\Estapar_Web_APP\Estapar_Web_DTO\obj\Debug\Estapar_Web_DTO.dll
+C:\Users\T431137\Source\Repos\Estapar\Estapar_Web_APP\Estapar_Web_DTO\obj\Debug\Estapar_Web_DTO.pdb
+C:\Users\T431137\Source\Repos\Estapar\Estapar_Web_APP\Estapar_Web_DTO\obj\Debug\Estapar_Web_DTO.csprojAssemblyReference.cache
+C:\Users\pegu_\OneDrive\Área de Trabalho\DESENVOLVIMENTO\Estapar\Estapar_Web_APP\Estapar_Web_DTO\bin\Debug\Estapar_Web_DTO.dll
+C:\Users\pegu_\OneDrive\Área de Trabalho\DESENVOLVIMENTO\Estapar\Estapar_Web_APP\Estapar_Web_DTO\bin\Debug\Estapar_Web_DTO.pdb
+C:\Users\pegu_\OneDrive\Área de Trabalho\DESENVOLVIMENTO\Estapar\Estapar_Web_APP\Estapar_Web_DTO\obj\Debug\Estapar_Web_DTO.csprojAssemblyReference.cache
+C:\Users\pegu_\OneDrive\Área de Trabalho\DESENVOLVIMENTO\Estapar\Estapar_Web_APP\Estapar_Web_DTO\obj\Debug\Estapar_Web_DTO.dll
+C:\Users\pegu_\OneDrive\Área de Trabalho\DESENVOLVIMENTO\Estapar\Estapar_Web_APP\Estapar_Web_DTO\obj\Debug\Estapar_Web_DTO.pdb
+C:\Users\pegu_\OneDrive\Área de Trabalho\Estapar\Estapar_Web_APP\Estapar_Web_DTO\bin\Debug\Estapar_Web_DTO.dll
+C:\Users\pegu_\OneDrive\Área de Trabalho\Estapar\Estapar_Web_APP\Estapar_Web_DTO\bin\Debug\Estapar_Web_DTO.pdb
+C:\Users\pegu_\OneDrive\Área de Trabalho\Estapar\Estapar_Web_APP\Estapar_Web_DTO\obj\Debug\Estapar_Web_DTO.csprojAssemblyReference.cache
+C:\Users\pegu_\OneDrive\Área de Trabalho\Estapar\Estapar_Web_APP\Estapar_Web_DTO\obj\Debug\Estapar_Web_DTO.dll
+C:\Users\pegu_\OneDrive\Área de Trabalho\Estapar\Estapar_Web_APP\Estapar_Web_DTO\obj\Debug\Estapar_Web_DTO.pdb
+C:\Users\T431137\Desktop\Estapar\Estapar_Web_APP\Estapar_Web_DTO\bin\Debug\Estapar_Web_DTO.dll
+C:\Users\T431137\Desktop\Estapar\Estapar_Web_APP\Estapar_Web_DTO\bin\Debug\Estapar_Web_DTO.pdb
+C:\Users\T431137\Desktop\Estapar\Estapar_Web_APP\Estapar_Web_DTO\obj\Debug\Estapar_Web_DTO.csprojAssemblyReference.cache
+C:\Users\T431137\Desktop\Estapar\Estapar_Web_APP\Estapar_Web_DTO\obj\Debug\Estapar_Web_DTO.dll
+C:\Users\T431137\Desktop\Estapar\Estapar_Web_APP\Estapar_Web_DTO\obj\Debug\Estapar_Web_DTO.pdb

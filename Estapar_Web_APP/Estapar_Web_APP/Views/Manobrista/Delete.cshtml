@@ -1,0 +1,55 @@
+﻿@model Estapar_Web_DTO.Manobrista
+
+@{
+    ViewBag.Title = "Excluir Manobrista";
+}
+
+    <h2>Excluir Manobrista</h2>
+
+<h3>Você tem certeza que deseja excluir este veículo?</h3>
+<div>
+    <h4>Manobrista</h4>
+    <hr />
+    <dl class="Voltar à Lista">
+        <dt>
+            @Html.DisplayNameFor(model => model.nome)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.nome)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.cpf)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.cpf)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.dataNasc)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.dataNasc)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Excluir" class="btn btn-default" /> |
+            @Html.ActionLink("Voltar para a Lista", "Index")
+        </div>
+    }
+    @if (ViewBag.Alerta != string.Empty)
+    {
+        <script type="text/javascript">
+        alert('@ViewBag.Alerta');
+        </script>
+    }
+</div>

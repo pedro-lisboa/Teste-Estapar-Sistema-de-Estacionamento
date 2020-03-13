@@ -1,0 +1,40 @@
+C:\Users\T431137\Source\Repos\Estapar\Estapar_Web_APP\Estapar_Web_DAL\bin\Debug\Estapar_Web_DAL.dll
+C:\Users\T431137\Source\Repos\Estapar\Estapar_Web_APP\Estapar_Web_DAL\bin\Debug\Estapar_Web_DAL.pdb
+C:\Users\T431137\Source\Repos\Estapar\Estapar_Web_APP\Estapar_Web_DAL\bin\Debug\Estapar_Web_DataAcess.dll
+C:\Users\T431137\Source\Repos\Estapar\Estapar_Web_APP\Estapar_Web_DAL\bin\Debug\Estapar_Web_DataAcess.pdb
+C:\Users\T431137\Source\Repos\Estapar\Estapar_Web_APP\Estapar_Web_DAL\obj\Debug\Estapar_Web_DAL.csprojAssemblyReference.cache
+C:\Users\T431137\Source\Repos\Estapar\Estapar_Web_APP\Estapar_Web_DAL\obj\Debug\Estapar_Web_DAL.csproj.CopyComplete
+C:\Users\T431137\Source\Repos\Estapar\Estapar_Web_APP\Estapar_Web_DAL\obj\Debug\Estapar_Web_DAL.dll
+C:\Users\T431137\Source\Repos\Estapar\Estapar_Web_APP\Estapar_Web_DAL\obj\Debug\Estapar_Web_DAL.pdb
+C:\Users\T431137\Source\Repos\Estapar\Estapar_Web_APP\Estapar_Web_DAL\bin\Debug\Estapar_Web_DTO.dll
+C:\Users\T431137\Source\Repos\Estapar\Estapar_Web_APP\Estapar_Web_DAL\bin\Debug\Estapar_Web_DTO.pdb
+C:\Users\pegu_\OneDrive\Área de Trabalho\DESENVOLVIMENTO\Estapar\Estapar_Web_APP\Estapar_Web_DAL\bin\Debug\Estapar_Web_DAL.dll
+C:\Users\pegu_\OneDrive\Área de Trabalho\DESENVOLVIMENTO\Estapar\Estapar_Web_APP\Estapar_Web_DAL\bin\Debug\Estapar_Web_DAL.pdb
+C:\Users\pegu_\OneDrive\Área de Trabalho\DESENVOLVIMENTO\Estapar\Estapar_Web_APP\Estapar_Web_DAL\bin\Debug\Estapar_Web_DataAcess.dll
+C:\Users\pegu_\OneDrive\Área de Trabalho\DESENVOLVIMENTO\Estapar\Estapar_Web_APP\Estapar_Web_DAL\bin\Debug\Estapar_Web_DTO.dll
+C:\Users\pegu_\OneDrive\Área de Trabalho\DESENVOLVIMENTO\Estapar\Estapar_Web_APP\Estapar_Web_DAL\bin\Debug\Estapar_Web_DataAcess.pdb
+C:\Users\pegu_\OneDrive\Área de Trabalho\DESENVOLVIMENTO\Estapar\Estapar_Web_APP\Estapar_Web_DAL\bin\Debug\Estapar_Web_DTO.pdb
+C:\Users\pegu_\OneDrive\Área de Trabalho\DESENVOLVIMENTO\Estapar\Estapar_Web_APP\Estapar_Web_DAL\obj\Debug\Estapar_Web_DAL.csprojAssemblyReference.cache
+C:\Users\pegu_\OneDrive\Área de Trabalho\DESENVOLVIMENTO\Estapar\Estapar_Web_APP\Estapar_Web_DAL\obj\Debug\Estapar_Web_DAL.csproj.CopyComplete
+C:\Users\pegu_\OneDrive\Área de Trabalho\DESENVOLVIMENTO\Estapar\Estapar_Web_APP\Estapar_Web_DAL\obj\Debug\Estapar_Web_DAL.dll
+C:\Users\pegu_\OneDrive\Área de Trabalho\DESENVOLVIMENTO\Estapar\Estapar_Web_APP\Estapar_Web_DAL\obj\Debug\Estapar_Web_DAL.pdb
+C:\Users\pegu_\OneDrive\Área de Trabalho\Estapar\Estapar_Web_APP\Estapar_Web_DAL\bin\Debug\Estapar_Web_DAL.dll
+C:\Users\pegu_\OneDrive\Área de Trabalho\Estapar\Estapar_Web_APP\Estapar_Web_DAL\bin\Debug\Estapar_Web_DAL.pdb
+C:\Users\pegu_\OneDrive\Área de Trabalho\Estapar\Estapar_Web_APP\Estapar_Web_DAL\bin\Debug\Estapar_Web_DataAcess.dll
+C:\Users\pegu_\OneDrive\Área de Trabalho\Estapar\Estapar_Web_APP\Estapar_Web_DAL\bin\Debug\Estapar_Web_DTO.dll
+C:\Users\pegu_\OneDrive\Área de Trabalho\Estapar\Estapar_Web_APP\Estapar_Web_DAL\bin\Debug\Estapar_Web_DataAcess.pdb
+C:\Users\pegu_\OneDrive\Área de Trabalho\Estapar\Estapar_Web_APP\Estapar_Web_DAL\bin\Debug\Estapar_Web_DTO.pdb
+C:\Users\pegu_\OneDrive\Área de Trabalho\Estapar\Estapar_Web_APP\Estapar_Web_DAL\obj\Debug\Estapar_Web_DAL.csprojAssemblyReference.cache
+C:\Users\pegu_\OneDrive\Área de Trabalho\Estapar\Estapar_Web_APP\Estapar_Web_DAL\obj\Debug\Estapar_Web_DAL.csproj.CopyComplete
+C:\Users\pegu_\OneDrive\Área de Trabalho\Estapar\Estapar_Web_APP\Estapar_Web_DAL\obj\Debug\Estapar_Web_DAL.dll
+C:\Users\pegu_\OneDrive\Área de Trabalho\Estapar\Estapar_Web_APP\Estapar_Web_DAL\obj\Debug\Estapar_Web_DAL.pdb
+C:\Users\T431137\Desktop\Estapar\Estapar_Web_APP\Estapar_Web_DAL\bin\Debug\Estapar_Web_DAL.dll
+C:\Users\T431137\Desktop\Estapar\Estapar_Web_APP\Estapar_Web_DAL\bin\Debug\Estapar_Web_DAL.pdb
+C:\Users\T431137\Desktop\Estapar\Estapar_Web_APP\Estapar_Web_DAL\bin\Debug\Estapar_Web_DataAcess.dll
+C:\Users\T431137\Desktop\Estapar\Estapar_Web_APP\Estapar_Web_DAL\bin\Debug\Estapar_Web_DTO.dll
+C:\Users\T431137\Desktop\Estapar\Estapar_Web_APP\Estapar_Web_DAL\bin\Debug\Estapar_Web_DataAcess.pdb
+C:\Users\T431137\Desktop\Estapar\Estapar_Web_APP\Estapar_Web_DAL\bin\Debug\Estapar_Web_DTO.pdb
+C:\Users\T431137\Desktop\Estapar\Estapar_Web_APP\Estapar_Web_DAL\obj\Debug\Estapar_Web_DAL.csprojAssemblyReference.cache
+C:\Users\T431137\Desktop\Estapar\Estapar_Web_APP\Estapar_Web_DAL\obj\Debug\Estapar_Web_DAL.csproj.CopyComplete
+C:\Users\T431137\Desktop\Estapar\Estapar_Web_APP\Estapar_Web_DAL\obj\Debug\Estapar_Web_DAL.dll
+C:\Users\T431137\Desktop\Estapar\Estapar_Web_APP\Estapar_Web_DAL\obj\Debug\Estapar_Web_DAL.pdb

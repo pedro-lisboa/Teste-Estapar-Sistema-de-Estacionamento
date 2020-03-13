@@ -1,0 +1,404 @@
+C:\Users\T431137\Source\Repos\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\Estapar_Web_APP.dll.config
+C:\Users\T431137\Source\Repos\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\Estapar_Web_APP.dll
+C:\Users\T431137\Source\Repos\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\Estapar_Web_APP.pdb
+C:\Users\T431137\Source\Repos\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\csc.exe
+C:\Users\T431137\Source\Repos\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\csc.exe.config
+C:\Users\T431137\Source\Repos\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\csc.rsp
+C:\Users\T431137\Source\Repos\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\csi.exe
+C:\Users\T431137\Source\Repos\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\csi.exe.config
+C:\Users\T431137\Source\Repos\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\csi.rsp
+C:\Users\T431137\Source\Repos\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\T431137\Source\Repos\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\T431137\Source\Repos\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\T431137\Source\Repos\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\T431137\Source\Repos\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\T431137\Source\Repos\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\T431137\Source\Repos\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\T431137\Source\Repos\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\T431137\Source\Repos\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\T431137\Source\Repos\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\T431137\Source\Repos\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\T431137\Source\Repos\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\System.AppContext.dll
+C:\Users\T431137\Source\Repos\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\T431137\Source\Repos\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\System.Console.dll
+C:\Users\T431137\Source\Repos\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\T431137\Source\Repos\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\T431137\Source\Repos\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\System.IO.Compression.dll
+C:\Users\T431137\Source\Repos\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\T431137\Source\Repos\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\T431137\Source\Repos\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\T431137\Source\Repos\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\System.IO.Pipes.dll
+C:\Users\T431137\Source\Repos\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\T431137\Source\Repos\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\T431137\Source\Repos\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\System.Security.Claims.dll
+C:\Users\T431137\Source\Repos\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\T431137\Source\Repos\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\T431137\Source\Repos\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\T431137\Source\Repos\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\T431137\Source\Repos\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\T431137\Source\Repos\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\T431137\Source\Repos\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\System.ValueTuple.dll
+C:\Users\T431137\Source\Repos\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\T431137\Source\Repos\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\T431137\Source\Repos\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\System.Xml.XPath.dll
+C:\Users\T431137\Source\Repos\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\T431137\Source\Repos\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\vbc.exe
+C:\Users\T431137\Source\Repos\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\vbc.exe.config
+C:\Users\T431137\Source\Repos\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\vbc.rsp
+C:\Users\T431137\Source\Repos\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\VBCSCompiler.exe
+C:\Users\T431137\Source\Repos\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\T431137\Source\Repos\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\Antlr3.Runtime.dll
+C:\Users\T431137\Source\Repos\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\T431137\Source\Repos\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\T431137\Source\Repos\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\Estapar_Web_BLL.dll
+C:\Users\T431137\Source\Repos\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\T431137\Source\Repos\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\T431137\Source\Repos\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\T431137\Source\Repos\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\T431137\Source\Repos\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\T431137\Source\Repos\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\T431137\Source\Repos\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\Newtonsoft.Json.dll
+C:\Users\T431137\Source\Repos\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\System.Web.Helpers.dll
+C:\Users\T431137\Source\Repos\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\System.Web.Mvc.dll
+C:\Users\T431137\Source\Repos\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\System.Web.Optimization.dll
+C:\Users\T431137\Source\Repos\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\System.Web.Razor.dll
+C:\Users\T431137\Source\Repos\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\System.Web.Webpages.Deployment.dll
+C:\Users\T431137\Source\Repos\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\System.Web.Webpages.dll
+C:\Users\T431137\Source\Repos\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\System.Web.Webpages.Razor.dll
+C:\Users\T431137\Source\Repos\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\WebGrease.dll
+C:\Users\T431137\Source\Repos\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\Estapar_Web_BLL.pdb
+C:\Users\T431137\Source\Repos\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\System.Web.Optimization.xml
+C:\Users\T431137\Source\Repos\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\Newtonsoft.Json.xml
+C:\Users\T431137\Source\Repos\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\Antlr3.Runtime.pdb
+C:\Users\T431137\Source\Repos\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\T431137\Source\Repos\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\System.Web.Razor.xml
+C:\Users\T431137\Source\Repos\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\System.Web.Webpages.xml
+C:\Users\T431137\Source\Repos\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\System.Web.Webpages.Deployment.xml
+C:\Users\T431137\Source\Repos\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\System.Web.Webpages.Razor.xml
+C:\Users\T431137\Source\Repos\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\System.Web.Helpers.xml
+C:\Users\T431137\Source\Repos\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\System.Web.Mvc.xml
+C:\Users\T431137\Source\Repos\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\T431137\Source\Repos\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\T431137\Source\Repos\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\pt-br\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\T431137\Source\Repos\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\T431137\Source\Repos\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\pt-br\System.Web.Webpages.resources.dll
+C:\Users\T431137\Source\Repos\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\pt-br\System.Web.Webpages.Deployment.resources.dll
+C:\Users\T431137\Source\Repos\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\pt-br\System.Web.Webpages.Razor.resources.dll
+C:\Users\T431137\Source\Repos\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\T431137\Source\Repos\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\T431137\Source\Repos\Estapar\Estapar_Web_APP\Estapar_Web_APP\obj\Debug\Estapar_Web_APP.csprojAssemblyReference.cache
+C:\Users\T431137\Source\Repos\Estapar\Estapar_Web_APP\Estapar_Web_APP\obj\Debug\Estapar_Web_APP.csproj.CopyComplete
+C:\Users\T431137\Source\Repos\Estapar\Estapar_Web_APP\Estapar_Web_APP\obj\Debug\Estapar_Web_APP.dll
+C:\Users\T431137\Source\Repos\Estapar\Estapar_Web_APP\Estapar_Web_APP\obj\Debug\Estapar_Web_APP.pdb
+C:\Users\T431137\Source\Repos\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\Estapar_Web_DTO.dll
+C:\Users\T431137\Source\Repos\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\Estapar_Web_DTO.pdb
+C:\Users\T431137\Source\Repos\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\Estapar_Web_DAL.dll
+C:\Users\T431137\Source\Repos\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\Estapar_Web_DAL.pdb
+C:\Users\T431137\Source\Repos\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\Estapar_Web_DataAcess.dll
+C:\Users\T431137\Source\Repos\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\Estapar_Web_DataAcess.pdb
+C:\Users\T431137\Source\Repos\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\nunit.framework.dll
+C:\Users\T431137\Source\Repos\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\nunit.framework.pdb
+C:\Users\T431137\Source\Repos\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\nunit.framework.xml
+C:\Users\pegu_\OneDrive\Área de Trabalho\DESENVOLVIMENTO\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\Estapar_Web_APP.dll.config
+C:\Users\pegu_\OneDrive\Área de Trabalho\DESENVOLVIMENTO\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\Estapar_Web_APP.dll
+C:\Users\pegu_\OneDrive\Área de Trabalho\DESENVOLVIMENTO\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\Estapar_Web_APP.pdb
+C:\Users\pegu_\OneDrive\Área de Trabalho\DESENVOLVIMENTO\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\csc.exe
+C:\Users\pegu_\OneDrive\Área de Trabalho\DESENVOLVIMENTO\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\csc.exe.config
+C:\Users\pegu_\OneDrive\Área de Trabalho\DESENVOLVIMENTO\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\csc.rsp
+C:\Users\pegu_\OneDrive\Área de Trabalho\DESENVOLVIMENTO\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\csi.exe
+C:\Users\pegu_\OneDrive\Área de Trabalho\DESENVOLVIMENTO\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\csi.exe.config
+C:\Users\pegu_\OneDrive\Área de Trabalho\DESENVOLVIMENTO\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\csi.rsp
+C:\Users\pegu_\OneDrive\Área de Trabalho\DESENVOLVIMENTO\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\pegu_\OneDrive\Área de Trabalho\DESENVOLVIMENTO\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\pegu_\OneDrive\Área de Trabalho\DESENVOLVIMENTO\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\pegu_\OneDrive\Área de Trabalho\DESENVOLVIMENTO\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\pegu_\OneDrive\Área de Trabalho\DESENVOLVIMENTO\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\pegu_\OneDrive\Área de Trabalho\DESENVOLVIMENTO\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\pegu_\OneDrive\Área de Trabalho\DESENVOLVIMENTO\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\pegu_\OneDrive\Área de Trabalho\DESENVOLVIMENTO\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\pegu_\OneDrive\Área de Trabalho\DESENVOLVIMENTO\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\pegu_\OneDrive\Área de Trabalho\DESENVOLVIMENTO\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\pegu_\OneDrive\Área de Trabalho\DESENVOLVIMENTO\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\pegu_\OneDrive\Área de Trabalho\DESENVOLVIMENTO\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\System.AppContext.dll
+C:\Users\pegu_\OneDrive\Área de Trabalho\DESENVOLVIMENTO\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\pegu_\OneDrive\Área de Trabalho\DESENVOLVIMENTO\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\System.Console.dll
+C:\Users\pegu_\OneDrive\Área de Trabalho\DESENVOLVIMENTO\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\pegu_\OneDrive\Área de Trabalho\DESENVOLVIMENTO\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\pegu_\OneDrive\Área de Trabalho\DESENVOLVIMENTO\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\System.IO.Compression.dll
+C:\Users\pegu_\OneDrive\Área de Trabalho\DESENVOLVIMENTO\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\pegu_\OneDrive\Área de Trabalho\DESENVOLVIMENTO\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\pegu_\OneDrive\Área de Trabalho\DESENVOLVIMENTO\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\pegu_\OneDrive\Área de Trabalho\DESENVOLVIMENTO\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\System.IO.Pipes.dll
+C:\Users\pegu_\OneDrive\Área de Trabalho\DESENVOLVIMENTO\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\pegu_\OneDrive\Área de Trabalho\DESENVOLVIMENTO\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\pegu_\OneDrive\Área de Trabalho\DESENVOLVIMENTO\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\System.Security.Claims.dll
+C:\Users\pegu_\OneDrive\Área de Trabalho\DESENVOLVIMENTO\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\pegu_\OneDrive\Área de Trabalho\DESENVOLVIMENTO\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\pegu_\OneDrive\Área de Trabalho\DESENVOLVIMENTO\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\pegu_\OneDrive\Área de Trabalho\DESENVOLVIMENTO\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\pegu_\OneDrive\Área de Trabalho\DESENVOLVIMENTO\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\pegu_\OneDrive\Área de Trabalho\DESENVOLVIMENTO\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\pegu_\OneDrive\Área de Trabalho\DESENVOLVIMENTO\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\System.ValueTuple.dll
+C:\Users\pegu_\OneDrive\Área de Trabalho\DESENVOLVIMENTO\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\pegu_\OneDrive\Área de Trabalho\DESENVOLVIMENTO\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\pegu_\OneDrive\Área de Trabalho\DESENVOLVIMENTO\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\System.Xml.XPath.dll
+C:\Users\pegu_\OneDrive\Área de Trabalho\DESENVOLVIMENTO\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\pegu_\OneDrive\Área de Trabalho\DESENVOLVIMENTO\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\vbc.exe
+C:\Users\pegu_\OneDrive\Área de Trabalho\DESENVOLVIMENTO\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\vbc.exe.config
+C:\Users\pegu_\OneDrive\Área de Trabalho\DESENVOLVIMENTO\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\vbc.rsp
+C:\Users\pegu_\OneDrive\Área de Trabalho\DESENVOLVIMENTO\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\VBCSCompiler.exe
+C:\Users\pegu_\OneDrive\Área de Trabalho\DESENVOLVIMENTO\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\pegu_\OneDrive\Área de Trabalho\DESENVOLVIMENTO\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\Antlr3.Runtime.dll
+C:\Users\pegu_\OneDrive\Área de Trabalho\DESENVOLVIMENTO\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\pegu_\OneDrive\Área de Trabalho\DESENVOLVIMENTO\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\pegu_\OneDrive\Área de Trabalho\DESENVOLVIMENTO\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\Estapar_Web_BLL.dll
+C:\Users\pegu_\OneDrive\Área de Trabalho\DESENVOLVIMENTO\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\Estapar_Web_DTO.dll
+C:\Users\pegu_\OneDrive\Área de Trabalho\DESENVOLVIMENTO\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\pegu_\OneDrive\Área de Trabalho\DESENVOLVIMENTO\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\pegu_\OneDrive\Área de Trabalho\DESENVOLVIMENTO\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\pegu_\OneDrive\Área de Trabalho\DESENVOLVIMENTO\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\pegu_\OneDrive\Área de Trabalho\DESENVOLVIMENTO\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\pegu_\OneDrive\Área de Trabalho\DESENVOLVIMENTO\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\pegu_\OneDrive\Área de Trabalho\DESENVOLVIMENTO\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\Newtonsoft.Json.dll
+C:\Users\pegu_\OneDrive\Área de Trabalho\DESENVOLVIMENTO\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\nunit.framework.dll
+C:\Users\pegu_\OneDrive\Área de Trabalho\DESENVOLVIMENTO\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\System.Web.Helpers.dll
+C:\Users\pegu_\OneDrive\Área de Trabalho\DESENVOLVIMENTO\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\System.Web.Mvc.dll
+C:\Users\pegu_\OneDrive\Área de Trabalho\DESENVOLVIMENTO\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\System.Web.Optimization.dll
+C:\Users\pegu_\OneDrive\Área de Trabalho\DESENVOLVIMENTO\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\System.Web.Razor.dll
+C:\Users\pegu_\OneDrive\Área de Trabalho\DESENVOLVIMENTO\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\System.Web.Webpages.Deployment.dll
+C:\Users\pegu_\OneDrive\Área de Trabalho\DESENVOLVIMENTO\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\System.Web.Webpages.dll
+C:\Users\pegu_\OneDrive\Área de Trabalho\DESENVOLVIMENTO\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\System.Web.Webpages.Razor.dll
+C:\Users\pegu_\OneDrive\Área de Trabalho\DESENVOLVIMENTO\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\WebGrease.dll
+C:\Users\pegu_\OneDrive\Área de Trabalho\DESENVOLVIMENTO\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\Estapar_Web_DAL.dll
+C:\Users\pegu_\OneDrive\Área de Trabalho\DESENVOLVIMENTO\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\Estapar_Web_DataAcess.dll
+C:\Users\pegu_\OneDrive\Área de Trabalho\DESENVOLVIMENTO\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\Estapar_Web_BLL.pdb
+C:\Users\pegu_\OneDrive\Área de Trabalho\DESENVOLVIMENTO\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\Estapar_Web_DTO.pdb
+C:\Users\pegu_\OneDrive\Área de Trabalho\DESENVOLVIMENTO\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\nunit.framework.pdb
+C:\Users\pegu_\OneDrive\Área de Trabalho\DESENVOLVIMENTO\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\nunit.framework.xml
+C:\Users\pegu_\OneDrive\Área de Trabalho\DESENVOLVIMENTO\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\System.Web.Optimization.xml
+C:\Users\pegu_\OneDrive\Área de Trabalho\DESENVOLVIMENTO\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\Newtonsoft.Json.xml
+C:\Users\pegu_\OneDrive\Área de Trabalho\DESENVOLVIMENTO\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\Antlr3.Runtime.pdb
+C:\Users\pegu_\OneDrive\Área de Trabalho\DESENVOLVIMENTO\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\pegu_\OneDrive\Área de Trabalho\DESENVOLVIMENTO\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\System.Web.Razor.xml
+C:\Users\pegu_\OneDrive\Área de Trabalho\DESENVOLVIMENTO\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\System.Web.Webpages.xml
+C:\Users\pegu_\OneDrive\Área de Trabalho\DESENVOLVIMENTO\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\System.Web.Webpages.Deployment.xml
+C:\Users\pegu_\OneDrive\Área de Trabalho\DESENVOLVIMENTO\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\System.Web.Webpages.Razor.xml
+C:\Users\pegu_\OneDrive\Área de Trabalho\DESENVOLVIMENTO\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\System.Web.Helpers.xml
+C:\Users\pegu_\OneDrive\Área de Trabalho\DESENVOLVIMENTO\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\System.Web.Mvc.xml
+C:\Users\pegu_\OneDrive\Área de Trabalho\DESENVOLVIMENTO\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\pegu_\OneDrive\Área de Trabalho\DESENVOLVIMENTO\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\Estapar_Web_DAL.pdb
+C:\Users\pegu_\OneDrive\Área de Trabalho\DESENVOLVIMENTO\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\Estapar_Web_DataAcess.pdb
+C:\Users\pegu_\OneDrive\Área de Trabalho\DESENVOLVIMENTO\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\pegu_\OneDrive\Área de Trabalho\DESENVOLVIMENTO\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\pt-br\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\pegu_\OneDrive\Área de Trabalho\DESENVOLVIMENTO\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\pegu_\OneDrive\Área de Trabalho\DESENVOLVIMENTO\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\pt-br\System.Web.Webpages.resources.dll
+C:\Users\pegu_\OneDrive\Área de Trabalho\DESENVOLVIMENTO\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\pt-br\System.Web.Webpages.Deployment.resources.dll
+C:\Users\pegu_\OneDrive\Área de Trabalho\DESENVOLVIMENTO\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\pt-br\System.Web.Webpages.Razor.resources.dll
+C:\Users\pegu_\OneDrive\Área de Trabalho\DESENVOLVIMENTO\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\pegu_\OneDrive\Área de Trabalho\DESENVOLVIMENTO\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\pegu_\OneDrive\Área de Trabalho\DESENVOLVIMENTO\Estapar\Estapar_Web_APP\Estapar_Web_APP\obj\Debug\Estapar_Web_APP.csprojAssemblyReference.cache
+C:\Users\pegu_\OneDrive\Área de Trabalho\DESENVOLVIMENTO\Estapar\Estapar_Web_APP\Estapar_Web_APP\obj\Debug\Estapar_Web_APP.csproj.CopyComplete
+C:\Users\pegu_\OneDrive\Área de Trabalho\DESENVOLVIMENTO\Estapar\Estapar_Web_APP\Estapar_Web_APP\obj\Debug\Estapar_Web_APP.dll
+C:\Users\pegu_\OneDrive\Área de Trabalho\DESENVOLVIMENTO\Estapar\Estapar_Web_APP\Estapar_Web_APP\obj\Debug\Estapar_Web_APP.pdb
+C:\Users\pegu_\OneDrive\Área de Trabalho\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\Estapar_Web_APP.dll.config
+C:\Users\pegu_\OneDrive\Área de Trabalho\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\Estapar_Web_APP.dll
+C:\Users\pegu_\OneDrive\Área de Trabalho\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\Estapar_Web_APP.pdb
+C:\Users\pegu_\OneDrive\Área de Trabalho\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\csc.exe
+C:\Users\pegu_\OneDrive\Área de Trabalho\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\csc.exe.config
+C:\Users\pegu_\OneDrive\Área de Trabalho\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\csc.rsp
+C:\Users\pegu_\OneDrive\Área de Trabalho\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\csi.exe
+C:\Users\pegu_\OneDrive\Área de Trabalho\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\csi.exe.config
+C:\Users\pegu_\OneDrive\Área de Trabalho\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\csi.rsp
+C:\Users\pegu_\OneDrive\Área de Trabalho\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\pegu_\OneDrive\Área de Trabalho\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\pegu_\OneDrive\Área de Trabalho\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\pegu_\OneDrive\Área de Trabalho\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\pegu_\OneDrive\Área de Trabalho\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\pegu_\OneDrive\Área de Trabalho\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\pegu_\OneDrive\Área de Trabalho\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\pegu_\OneDrive\Área de Trabalho\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\pegu_\OneDrive\Área de Trabalho\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\pegu_\OneDrive\Área de Trabalho\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\pegu_\OneDrive\Área de Trabalho\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\pegu_\OneDrive\Área de Trabalho\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\System.AppContext.dll
+C:\Users\pegu_\OneDrive\Área de Trabalho\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\pegu_\OneDrive\Área de Trabalho\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\System.Console.dll
+C:\Users\pegu_\OneDrive\Área de Trabalho\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\pegu_\OneDrive\Área de Trabalho\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\pegu_\OneDrive\Área de Trabalho\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\System.IO.Compression.dll
+C:\Users\pegu_\OneDrive\Área de Trabalho\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\pegu_\OneDrive\Área de Trabalho\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\pegu_\OneDrive\Área de Trabalho\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\pegu_\OneDrive\Área de Trabalho\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\System.IO.Pipes.dll
+C:\Users\pegu_\OneDrive\Área de Trabalho\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\pegu_\OneDrive\Área de Trabalho\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\pegu_\OneDrive\Área de Trabalho\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\System.Security.Claims.dll
+C:\Users\pegu_\OneDrive\Área de Trabalho\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\pegu_\OneDrive\Área de Trabalho\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\pegu_\OneDrive\Área de Trabalho\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\pegu_\OneDrive\Área de Trabalho\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\pegu_\OneDrive\Área de Trabalho\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\pegu_\OneDrive\Área de Trabalho\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\pegu_\OneDrive\Área de Trabalho\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\System.ValueTuple.dll
+C:\Users\pegu_\OneDrive\Área de Trabalho\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\pegu_\OneDrive\Área de Trabalho\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\pegu_\OneDrive\Área de Trabalho\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\System.Xml.XPath.dll
+C:\Users\pegu_\OneDrive\Área de Trabalho\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\pegu_\OneDrive\Área de Trabalho\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\vbc.exe
+C:\Users\pegu_\OneDrive\Área de Trabalho\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\vbc.exe.config
+C:\Users\pegu_\OneDrive\Área de Trabalho\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\vbc.rsp
+C:\Users\pegu_\OneDrive\Área de Trabalho\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\VBCSCompiler.exe
+C:\Users\pegu_\OneDrive\Área de Trabalho\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\pegu_\OneDrive\Área de Trabalho\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\Antlr3.Runtime.dll
+C:\Users\pegu_\OneDrive\Área de Trabalho\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\pegu_\OneDrive\Área de Trabalho\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\pegu_\OneDrive\Área de Trabalho\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\Estapar_Web_BLL.dll
+C:\Users\pegu_\OneDrive\Área de Trabalho\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\Estapar_Web_DTO.dll
+C:\Users\pegu_\OneDrive\Área de Trabalho\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\pegu_\OneDrive\Área de Trabalho\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\pegu_\OneDrive\Área de Trabalho\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\pegu_\OneDrive\Área de Trabalho\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\pegu_\OneDrive\Área de Trabalho\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\pegu_\OneDrive\Área de Trabalho\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\pegu_\OneDrive\Área de Trabalho\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\Newtonsoft.Json.dll
+C:\Users\pegu_\OneDrive\Área de Trabalho\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\nunit.framework.dll
+C:\Users\pegu_\OneDrive\Área de Trabalho\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\System.Web.Helpers.dll
+C:\Users\pegu_\OneDrive\Área de Trabalho\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\System.Web.Mvc.dll
+C:\Users\pegu_\OneDrive\Área de Trabalho\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\System.Web.Optimization.dll
+C:\Users\pegu_\OneDrive\Área de Trabalho\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\System.Web.Razor.dll
+C:\Users\pegu_\OneDrive\Área de Trabalho\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\System.Web.Webpages.Deployment.dll
+C:\Users\pegu_\OneDrive\Área de Trabalho\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\System.Web.Webpages.dll
+C:\Users\pegu_\OneDrive\Área de Trabalho\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\System.Web.Webpages.Razor.dll
+C:\Users\pegu_\OneDrive\Área de Trabalho\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\WebGrease.dll
+C:\Users\pegu_\OneDrive\Área de Trabalho\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\Estapar_Web_DAL.dll
+C:\Users\pegu_\OneDrive\Área de Trabalho\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\Estapar_Web_DataAcess.dll
+C:\Users\pegu_\OneDrive\Área de Trabalho\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\Estapar_Web_BLL.pdb
+C:\Users\pegu_\OneDrive\Área de Trabalho\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\Estapar_Web_DTO.pdb
+C:\Users\pegu_\OneDrive\Área de Trabalho\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\nunit.framework.pdb
+C:\Users\pegu_\OneDrive\Área de Trabalho\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\nunit.framework.xml
+C:\Users\pegu_\OneDrive\Área de Trabalho\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\System.Web.Optimization.xml
+C:\Users\pegu_\OneDrive\Área de Trabalho\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\Newtonsoft.Json.xml
+C:\Users\pegu_\OneDrive\Área de Trabalho\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\Antlr3.Runtime.pdb
+C:\Users\pegu_\OneDrive\Área de Trabalho\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\pegu_\OneDrive\Área de Trabalho\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\System.Web.Razor.xml
+C:\Users\pegu_\OneDrive\Área de Trabalho\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\System.Web.Webpages.xml
+C:\Users\pegu_\OneDrive\Área de Trabalho\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\System.Web.Webpages.Deployment.xml
+C:\Users\pegu_\OneDrive\Área de Trabalho\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\System.Web.Webpages.Razor.xml
+C:\Users\pegu_\OneDrive\Área de Trabalho\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\System.Web.Helpers.xml
+C:\Users\pegu_\OneDrive\Área de Trabalho\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\System.Web.Mvc.xml
+C:\Users\pegu_\OneDrive\Área de Trabalho\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\pegu_\OneDrive\Área de Trabalho\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\Estapar_Web_DAL.pdb
+C:\Users\pegu_\OneDrive\Área de Trabalho\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\Estapar_Web_DataAcess.pdb
+C:\Users\pegu_\OneDrive\Área de Trabalho\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\pegu_\OneDrive\Área de Trabalho\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\pt-br\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\pegu_\OneDrive\Área de Trabalho\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\pegu_\OneDrive\Área de Trabalho\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\pt-br\System.Web.Webpages.resources.dll
+C:\Users\pegu_\OneDrive\Área de Trabalho\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\pt-br\System.Web.Webpages.Deployment.resources.dll
+C:\Users\pegu_\OneDrive\Área de Trabalho\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\pt-br\System.Web.Webpages.Razor.resources.dll
+C:\Users\pegu_\OneDrive\Área de Trabalho\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\pegu_\OneDrive\Área de Trabalho\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\pegu_\OneDrive\Área de Trabalho\Estapar\Estapar_Web_APP\Estapar_Web_APP\obj\Debug\Estapar_Web_APP.csprojAssemblyReference.cache
+C:\Users\pegu_\OneDrive\Área de Trabalho\Estapar\Estapar_Web_APP\Estapar_Web_APP\obj\Debug\Estapar_Web_APP.csproj.CopyComplete
+C:\Users\pegu_\OneDrive\Área de Trabalho\Estapar\Estapar_Web_APP\Estapar_Web_APP\obj\Debug\Estapar_Web_APP.dll
+C:\Users\pegu_\OneDrive\Área de Trabalho\Estapar\Estapar_Web_APP\Estapar_Web_APP\obj\Debug\Estapar_Web_APP.pdb
+C:\Users\T431137\Desktop\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\Estapar_Web_APP.dll.config
+C:\Users\T431137\Desktop\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\Estapar_Web_APP.dll
+C:\Users\T431137\Desktop\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\Estapar_Web_APP.pdb
+C:\Users\T431137\Desktop\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\csc.exe
+C:\Users\T431137\Desktop\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\csc.exe.config
+C:\Users\T431137\Desktop\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\csc.rsp
+C:\Users\T431137\Desktop\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\csi.exe
+C:\Users\T431137\Desktop\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\csi.exe.config
+C:\Users\T431137\Desktop\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\csi.rsp
+C:\Users\T431137\Desktop\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\T431137\Desktop\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\T431137\Desktop\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\T431137\Desktop\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\T431137\Desktop\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\T431137\Desktop\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\T431137\Desktop\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\T431137\Desktop\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\T431137\Desktop\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\T431137\Desktop\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\T431137\Desktop\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\T431137\Desktop\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\System.AppContext.dll
+C:\Users\T431137\Desktop\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\T431137\Desktop\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\System.Console.dll
+C:\Users\T431137\Desktop\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\T431137\Desktop\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\T431137\Desktop\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\System.IO.Compression.dll
+C:\Users\T431137\Desktop\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\T431137\Desktop\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\T431137\Desktop\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\T431137\Desktop\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\System.IO.Pipes.dll
+C:\Users\T431137\Desktop\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\T431137\Desktop\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\T431137\Desktop\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\System.Security.Claims.dll
+C:\Users\T431137\Desktop\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\T431137\Desktop\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\T431137\Desktop\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\T431137\Desktop\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\T431137\Desktop\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\T431137\Desktop\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\T431137\Desktop\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\System.ValueTuple.dll
+C:\Users\T431137\Desktop\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\T431137\Desktop\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\T431137\Desktop\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\System.Xml.XPath.dll
+C:\Users\T431137\Desktop\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\T431137\Desktop\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\vbc.exe
+C:\Users\T431137\Desktop\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\vbc.exe.config
+C:\Users\T431137\Desktop\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\vbc.rsp
+C:\Users\T431137\Desktop\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\VBCSCompiler.exe
+C:\Users\T431137\Desktop\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\T431137\Desktop\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\Antlr3.Runtime.dll
+C:\Users\T431137\Desktop\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\T431137\Desktop\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\T431137\Desktop\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\Estapar_Web_BLL.dll
+C:\Users\T431137\Desktop\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\Estapar_Web_DTO.dll
+C:\Users\T431137\Desktop\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\T431137\Desktop\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\T431137\Desktop\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\T431137\Desktop\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\T431137\Desktop\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\T431137\Desktop\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\T431137\Desktop\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\Newtonsoft.Json.dll
+C:\Users\T431137\Desktop\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\nunit.framework.dll
+C:\Users\T431137\Desktop\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\System.Web.Helpers.dll
+C:\Users\T431137\Desktop\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\System.Web.Mvc.dll
+C:\Users\T431137\Desktop\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\System.Web.Optimization.dll
+C:\Users\T431137\Desktop\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\System.Web.Razor.dll
+C:\Users\T431137\Desktop\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\System.Web.Webpages.Deployment.dll
+C:\Users\T431137\Desktop\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\System.Web.Webpages.dll
+C:\Users\T431137\Desktop\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\System.Web.Webpages.Razor.dll
+C:\Users\T431137\Desktop\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\WebGrease.dll
+C:\Users\T431137\Desktop\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\Estapar_Web_DAL.dll
+C:\Users\T431137\Desktop\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\Estapar_Web_DataAcess.dll
+C:\Users\T431137\Desktop\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\Estapar_Web_BLL.pdb
+C:\Users\T431137\Desktop\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\Estapar_Web_DTO.pdb
+C:\Users\T431137\Desktop\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\nunit.framework.pdb
+C:\Users\T431137\Desktop\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\nunit.framework.xml
+C:\Users\T431137\Desktop\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\System.Web.Optimization.xml
+C:\Users\T431137\Desktop\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\Newtonsoft.Json.xml
+C:\Users\T431137\Desktop\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\Antlr3.Runtime.pdb
+C:\Users\T431137\Desktop\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\T431137\Desktop\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\System.Web.Razor.xml
+C:\Users\T431137\Desktop\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\System.Web.Webpages.xml
+C:\Users\T431137\Desktop\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\System.Web.Webpages.Deployment.xml
+C:\Users\T431137\Desktop\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\System.Web.Webpages.Razor.xml
+C:\Users\T431137\Desktop\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\System.Web.Helpers.xml
+C:\Users\T431137\Desktop\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\System.Web.Mvc.xml
+C:\Users\T431137\Desktop\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\T431137\Desktop\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\Estapar_Web_DAL.pdb
+C:\Users\T431137\Desktop\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\Estapar_Web_DataAcess.pdb
+C:\Users\T431137\Desktop\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\T431137\Desktop\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\pt-br\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\T431137\Desktop\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\T431137\Desktop\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\pt-br\System.Web.Webpages.resources.dll
+C:\Users\T431137\Desktop\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\pt-br\System.Web.Webpages.Deployment.resources.dll
+C:\Users\T431137\Desktop\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\pt-br\System.Web.Webpages.Razor.resources.dll
+C:\Users\T431137\Desktop\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\T431137\Desktop\Estapar\Estapar_Web_APP\Estapar_Web_APP\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\T431137\Desktop\Estapar\Estapar_Web_APP\Estapar_Web_APP\obj\Debug\Estapar_Web_APP.csprojAssemblyReference.cache
+C:\Users\T431137\Desktop\Estapar\Estapar_Web_APP\Estapar_Web_APP\obj\Debug\Estapar_Web_APP.csproj.CopyComplete
+C:\Users\T431137\Desktop\Estapar\Estapar_Web_APP\Estapar_Web_APP\obj\Debug\Estapar_Web_APP.dll
+C:\Users\T431137\Desktop\Estapar\Estapar_Web_APP\Estapar_Web_APP\obj\Debug\Estapar_Web_APP.pdb

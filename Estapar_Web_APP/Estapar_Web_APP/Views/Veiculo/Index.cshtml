@@ -1,0 +1,65 @@
+﻿@model IEnumerable<Estapar_Web_DTO.Veiculo>
+
+@{
+    ViewBag.Title = "Lista de Veículos";
+}
+
+<h2>Veículos</h2>
+
+<p>
+    @Html.ActionLink("Cadastrar Novo Veículo", "Create")
+</p>
+@using (Html.BeginForm())
+{
+    <h3>Consultar Veículos</h3>
+    <p>
+        Placa: @Html.TextBox("SearchStringPlaca", null, new { @class = "form-control" })<br />
+        Marca: @Html.TextBox("SearchStringMarca", null, new { @class = "form-control" })<br />
+        Modelo: @Html.TextBox("SearchStringModelo", null, new { @class = "form-control" })<br />
+        <input type="submit" value="Pesquisar" class="btn btn-default" />
+    </p>
+}
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.placa)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.marca)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.modelo)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.placa)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.marca)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.modelo)
+            </td>
+            <td>
+                @Html.ActionLink("Editar", "Edit", new { placa = item.placa })
+                <br />
+                @Html.ActionLink("Detalhe", "Details", new { placa = item.placa })
+                <br />
+                @Html.ActionLink("Excluir", "Delete", new { placa = item.placa })
+            </td>
+        </tr>
+    }
+
+</table>
+
+@if (ViewBag.Alerta != string.Empty)
+{
+    <script type="text/javascript">
+        alert('@ViewBag.Alerta');
+    </script>
+}

@@ -1,0 +1,70 @@
+﻿@model IEnumerable<Estapar_Web_DTO.Manobrista>
+
+@{
+    ViewBag.Title = "Lista de Manobristas";
+}
+
+<h2>Manobristas</h2>
+
+<p>
+    @Html.ActionLink("Cadastrar Novo Manobrista", "Create")
+</p>
+@using (Html.BeginForm())
+{
+    <h3>Consultar Manobristas</h3>
+<p>
+    Nome: @Html.TextBox("SearchStringNome", null, new { @class = "form-control" } )<br />
+    CPF: @Html.TextBox("SearchStringCPF", null, new { @class = "form-control" } )<br />
+    <input type="submit" value="Pesquisar"  class="btn btn-default"/>
+</p>
+}
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.nome)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.cpf)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.dataNasc)
+        </th>
+        <th></th>
+    </tr>
+    @if (Model != null)
+    {
+        foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.nome)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.cpf)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.dataNasc)
+                </td>
+                <td>
+                    @Html.ActionLink("Editar", "Edit", new { cpf = item.cpf })
+                    <br />
+                    @Html.ActionLink("Detalhes", "Details", new { cpf = item.cpf })
+                    <br />
+                    @Html.ActionLink("Excluir", "Delete", new { cpf = item.cpf })
+                </td>
+            </tr>
+        }
+    }
+
+
+</table>
+
+@if (ViewBag.Alerta != string.Empty)
+{
+    <script type="text/javascript">
+        alert('@ViewBag.Alerta');
+    </script>
+}
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

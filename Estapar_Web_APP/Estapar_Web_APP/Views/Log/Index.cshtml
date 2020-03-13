@@ -1,0 +1,40 @@
+﻿@model IEnumerable<Estapar_Web_DTO.Log>
+
+@{
+    ViewBag.Title = "Log de Exclusao de Manobras";
+}
+
+<h2>Log de Exclusao de Manobras</h2>
+
+@using (Html.BeginForm())
+{
+    <h3>Consultar Log</h3>
+    <p>
+        Data: @Html.TextBox("SearchStringData", null, new { @class = "datefield  form-control", type = "date"  })<br />
+        <input type="submit" value="Pesquisar" class="btn btn-default" />
+    </p>
+}
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.data)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.msg)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.data)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.msg)
+            </td>
+        </tr>
+    }
+
+</table>

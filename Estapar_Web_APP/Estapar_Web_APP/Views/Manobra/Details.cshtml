@@ -1,0 +1,75 @@
+﻿@model Estapar_Web_DTO.Manobra
+
+@{
+    ViewBag.Title = "Detalhe da Manobra";
+}
+
+<h2>Detalhe da Manobra</h2>
+
+<div>
+    <h4>Manobra</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.data)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.data)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.dataTerm)
+        </dt>
+
+        <dd>
+            @if (Model.dataTerm == "")
+            {
+                <p>Não Encerrada</p>
+            }
+            @Html.DisplayFor(model => model.dataTerm)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.manobrista.nome)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.manobrista.nome)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.veiculo.marca)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.veiculo.marca)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.veiculo.modelo)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.veiculo.modelo)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.veiculo.placa)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.veiculo.placa)
+        </dd>
+
+    </dl>
+</div>
+<p>
+
+    @if (Model.dataTerm == "")
+    {
+        @Html.ActionLink("Editar", "Edit", new { id = Model.id })
+    }
+    <br />
+    @Html.ActionLink("Voltar à Lista", "Index")
+</p>
